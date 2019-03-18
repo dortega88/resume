@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Daniel J. Ortega - Software Engineer"
+description: "Daniel J. Ortega - Software Engineer"
 
 # Build settings
 markdown: kramdown
@@ -46,12 +46,12 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/dortega88"
-  resume_twitter_url:           "http://twitter.com/dortega88"
-  resume_dribbble_url:          "https://dribbble.com/dortega88"
+  # resume_twitter_url:           "http://twitter.com/dortega88"
+  # resume_dribbble_url:          "https://dribbble.com/dortega88"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/dortega88"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://dortega88.com"
+  # resume_website_url:           "http://dortega88.com"
   # resume_medium_url:            ""
 resume_print_social_links:      true
 
