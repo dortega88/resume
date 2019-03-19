@@ -2,12 +2,12 @@
 - degree: Bachelor's of Arts and Applied Science
   uni: Texas A&M University
   year: 2013 &mdash; 2017
-  awards: Cumulative GPA: 3.0
+  awards:
+    - award: Cumulative GPA 3.0
   summary: Information Systems Security Association, Student Cyber Organization
 
 - degree: High School Diploma
   uni: Judson High School
   year: 2006
-  awards: Most likely to succeed.
-  summary:  Organizational leadership
-  
+  award: Most likely to succeed
+  summary: Organizational leadership
